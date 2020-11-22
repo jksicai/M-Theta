@@ -12,3 +12,4 @@ Steps to perform:
 6.	Commit some changes in Feature 1 branch, and then merge it into Integration, Hotfix, and Production branch. Delete this branch once merging is complete
 7.	Commit some changes in the Hotfix branch and merge it into the Production as well as the Integration branch
 
+Adding Hotfix
