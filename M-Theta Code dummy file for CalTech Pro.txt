@@ -5,3 +5,6 @@
 agentName = "Merlin"
 agentPath = "c:\windows\msagent\chars\" & agentName & ".acs"
 Set agent = CreateObject("Agent.Control.2")
+%%%%
+Adding Feature1
+%%%%
